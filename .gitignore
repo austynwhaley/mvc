@@ -1,0 +1,60 @@
+# Ignore build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Dd]ist/
+[Dd]ebug-windows/
+[Dd]ebug-android/
+[Dd]ebug-ios/
+[Dd]ebug-linux/
+[Dd]ebug-osx/
+[Dd]ebug-x86/
+[Dd]ebug-x64/
+[Dd]ebug-arm/
+[Dd]ebug-arm64/
+[Dd]ebug-wasm/
+
+# User-specific files
+.vs/
+.idea/
+.vscode/
+*.user
+*.userosscache
+*.suo
+*.sln.docstates
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Windows Installer files (for the NuGet package manager)
+*.nupkg
+
+# Windows Installer files (for the NuGet package manager)
+*.appx
+*.appxbundle
+*.appxupload
+
+# Mac files
+.DS_Store
+
+# Thumbs.db
+Thumbs.db
+
+# Files created by Visual Studio for macOS
+.vscode/
+
+# Rider
+.idea/
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# User-specific files for Visual Studio for Mac
+.vscode/
+.idea/
+
+# Temporary files for build tools (when using CI/CD)
+.vscode/
+.idea/
